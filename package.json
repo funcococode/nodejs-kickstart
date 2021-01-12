@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-kickstart",
+  "version": "1.0.0",
+  "description": "A bare minimum template for kickstarting node js projects",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funcococode/nodejs-kickstart.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Rachit shrivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funcococode/nodejs-kickstart/issues"
+  },
+  "homepage": "https://github.com/funcococode/nodejs-kickstart#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
